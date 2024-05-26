@@ -1,1 +1,0 @@
-# izumitkh.github.io
