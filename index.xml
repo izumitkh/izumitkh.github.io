@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Izumi Takahara</title>
+    <link>https://izumitkh.github.io/</link>
+    <description>Recent content on Izumi Takahara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://izumitkh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>https://izumitkh.github.io/posts/markdown-syntax.pt-br/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/markdown-syntax.pt-br/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://izumitkh.github.io/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>https://izumitkh.github.io/posts/rich-content.pt-br/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://izumitkh.github.io/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>https://izumitkh.github.io/posts/more-rich-content.pt-br/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>https://izumitkh.github.io/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>https://izumitkh.github.io/posts/math-typesetting.pt-br/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://izumitkh.github.io/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>https://izumitkh.github.io/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/html-and-css-only-tabs/</guid>
+      <description>Shortcodes  Link to heading   The following content:
+{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
+ .tabs input#tab-0-0:checked ~ .tab-content-0-0 { display: block; }  Hello Hello World!   .tabs input#tab-0-1:checked ~ .tab-content-0-1 { display: block; }  Goodbye Goodbye Everybody!   Right alighment  Link to heading   You can also align the tabs to the right:</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>https://izumitkh.github.io/posts/html-and-css-only-tabs.pt-br/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/html-and-css-only-tabs.pt-br/</guid>
+      <description>Shortcodes  Link to heading   O seguinte conteúdo:
+{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Irá gerar:
+ .tabs input#tab-0-0:checked ~ .tab-content-0-0 { display: block; }  Hello Hello World!   .tabs input#tab-0-1:checked ~ .tab-content-0-1 { display: block; }  Goodbye Goodbye Everybody!   Alinhamento à direita  Link to heading   Você também pode alinhas as tabs à direita:</description>
+    </item>
+    
+    <item>
+      <title>Mermaid JS support</title>
+      <link>https://izumitkh.github.io/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
+flowchart LR A -- B B -- C C -- D D -- B  sequenceDiagram participant Alice participant Bob Alice-Bob: Hi Bob Bob-Alice: Hi Alice  Find more example on Mermaid-JS website.</description>
+    </item>
+    
+    <item>
+      <title>Mermaid JS support</title>
+      <link>https://izumitkh.github.io/posts/mermaid-support.pt-br/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/mermaid-support.pt-br/</guid>
+      <description>Se quiser usar o Mermaid-JS em sua página. Use o shortcode mermaid em seus conteúdos Markdown.
+flowchart LR A -- B B -- C C -- D D -- B  sequenceDiagram participant Alice participant Bob Alice-Bob: Hi Bob Bob-Alice: Hi Alice  Entro mais exemplos na página do Mermaid-JS.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://izumitkh.github.io/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suporte a Emojis</title>
+      <link>https://izumitkh.github.io/posts/emoji-support.pt-br/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/emoji-support.pt-br/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>https://izumitkh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>https://izumitkh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://izumitkh.github.io/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Texto de Exemplo</title>
+      <link>https://izumitkh.github.io/posts/placeholder-text.pt-br/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>https://izumitkh.github.io/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>https://izumitkh.github.io/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://izumitkh.github.io/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>https://izumitkh.github.io/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://izumitkh.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://izumitkh.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://izumitkh.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/about/</guid>
+      <description>I am a first-year PhD student at the University of Tokyo.
+Links: GitHub ORCiD</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://izumitkh.github.io/codes_and_datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/codes_and_datasets/</guid>
+      <description>Codes  Link to heading    in preperation  Datasets  Link to heading    in preperation  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://izumitkh.github.io/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/others/</guid>
+      <description>Scholarships and Grants  Link to heading    Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science, Apr. 2024 - Mar. 2027. World-Leading Innovative Graduate Study Program for Materials Research, Information, and Technology (MERIT-WINGS), The University of Tokyo, Oct. 2022 - Mar. 2027.  Awards  Link to heading    東京大学工学系研究科マテリアル工学専攻 優秀修士論文賞，2024年3月． Best Contributed Speaker Award, 2022 MRS Fall meeting &amp;amp; exhibit, Dec.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://izumitkh.github.io/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/presentation/</guid>
+      <description>Oral presentations (in international conferences)  Link to heading     Izumi Takahara, Poyen Chen, Kiyou Shibata, and Teruyasu Mizoguchi, &amp;ldquo;Data-driven Approach for the Prediction of Ground State Electronic Density of States with Electron Energy Loss Spectroscopy&amp;rdquo;
+The 20th International Microscopy Congress (IMC20), Sep. 14th 2023, BEXCO, Busan, Korea.
+  Izumi Takahara, Poyen Chen, Kiyou Shiabta, and Teruyasu Mizoguchi, &amp;ldquo;Prediction of Electronic Density of States at Ground State from ELNES/XANES&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://izumitkh.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://izumitkh.github.io/publication/</guid>
+      <description>Papers  Link to heading     Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, Submitted.
+  Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Towards the atomic-level analysis of ground-state electronic structures of solid materials via prediction from core-loss spectra&amp;rdquo;, ChemRxiv
+  Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Crystal orbital overlap population based on all-electron ab initio simulation with numeric atom-centered orbitals and its application to chemical-bonding analysis in Li-intercalated layered materials&amp;rdquo;, Modelling and Simulation in Materials Science and Engineering, in press, arXiv.</description>
+    </item>
+    
+  </channel>
+</rss>
