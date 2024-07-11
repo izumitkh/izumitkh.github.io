@@ -264,9 +264,9 @@ Links: GitHub ORCiD</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://izumitkh.github.io/presentation/</guid>
-      <description>Oral presentations (in international conferences)  Link to heading     Izumi Takahara, Poyen Chen, Kiyou Shibata, and Teruyasu Mizoguchi, &amp;ldquo;Data-driven Approach for the Prediction of Ground State Electronic Density of States with Electron Energy Loss Spectroscopy&amp;rdquo;
-The 20th International Microscopy Congress (IMC20), Sep. 14th 2023, BEXCO, Busan, Korea.
-  Izumi Takahara, Poyen Chen, Kiyou Shiabta, and Teruyasu Mizoguchi, &amp;ldquo;Prediction of Electronic Density of States at Ground State from ELNES/XANES&amp;rdquo;</description>
+      <description>Presentations (in international conferences)  Link to heading     Izumi Takahara, Poyen Chen, Kiyou Shibata, and Teruyasu Mizoguchi, &amp;ldquo;Data-driven Approach for the Prediction of Ground State Electronic Density of States with Electron Energy Loss Spectroscopy&amp;rdquo;
+The 20th International Microscopy Congress (IMC20), Sep. 14th 2023, BEXCO, Busan, Korea. (oral)
+  Izumi Takahara, Kiyou Shibata, and Teruyasu Mizoguchi, &amp;ldquo;Implementation of Code to Calculate Crystal Orbital overlap population (COOP) and its Application to the Chemical-Bonding Analysis in Li-intercalated Layered Materials&amp;rdquo;</description>
     </item>
     
     <item>
@@ -275,9 +275,8 @@ The 20th International Microscopy Congress (IMC20), Sep. 14th 2023, BEXCO, Busan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://izumitkh.github.io/publication/</guid>
-      <description>Papers  Link to heading     Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers&amp;rdquo;, IJCAI 2024 AI4Research workshop, OpenReview
-  Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Towards the atomic-level analysis of ground-state electronic structures of solid materials via prediction from core-loss spectra&amp;rdquo;, ChemRxiv
-  Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Crystal orbital overlap population based on all-electron ab initio simulation with numeric atom-centered orbitals and its application to chemical-bonding analysis in Li-intercalated layered materials&amp;rdquo;, Modelling and Simulation in Materials Science and Engineering 32, 055028 (2024), arXiv preprint</description>
+      <description>Papers  Link to heading     Izumi Takahara, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers&amp;rdquo;, IJCAI 2024 (the 33rd International Joint Conference on Artificial Intelligence) AI4Research workshop, OpenReview, arXiv
+  Izumi Takahara, Fumihiko Uesugi, Koji Kimoto, Kiyou Shibata, Teruyasu Mizoguchi, &amp;ldquo;Toward the Atomic-Level Analysis of Ground-State Electronic Structures of Solid Materials via Prediction from Core-Loss Spectra: A Computational Study in Si&amp;rdquo;, The Journal of Physical Chemistry C, in press, ChemRxiv</description>
     </item>
     
   </channel>
