@@ -1,6 +1,6 @@
 ---
 title: Implementation of Code to Calculate Crystal Orbital overlap population (COOP) and its Application to the Chemical-Bonding Analysis in Li-intercalated Layered Materials
-tags: ["poster"]
+tags: ["Poster"]
 url: https://fhi-aims.org/fhi-aims-du-2023
 date: Aug. 2nd 2023
 ---
