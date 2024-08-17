@@ -4,6 +4,8 @@ import Container from "../components/Container.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import { Icon } from "astro-icon/components";
+import { GoogleAnalytics } from 'astro-google-analytics';
+const gaId = import.meta.env.PUBLIC_GA_ID;
 ---
 
 <html lang="gl">
@@ -27,6 +29,7 @@ import { Icon } from "astro-icon/components";
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <title>Izumi Takahara CV</title>
+    {gaId && <GoogleAnalytics id={gaId} />}
   </head>
   <body class="flex flex-col min-h-screen">
     <Header />
