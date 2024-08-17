@@ -7,4 +7,4 @@ date: 2024
 
 Izumi Takahara*, Fumihiko Uesugi, Koji Kimoto, Kiyou Shibata, and Teruyasu Mizoguchi*
 
-*The Journal of Physical Chemistry C*
+*The Journal of Physical Chemistry C* **128**, 13500−13507 (2024).
